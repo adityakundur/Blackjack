@@ -27,7 +27,7 @@ Clone this repository or download the .py file to your local machine. Navigate t
 
 bash
 Copy code
-python blackjack.py
+python Blackjack.py
 
 How to Play
 
